@@ -25,7 +25,7 @@ SECRET_KEY = 'u6aifopj_05kdsa#ksld4hypiwuj=csb4w4-jr2gr=t*-$xn-#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<pulcherie>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pulcherie.pythonanywhere.com']
 
 
 # Application definition
